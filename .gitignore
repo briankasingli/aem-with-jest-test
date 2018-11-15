@@ -75,7 +75,29 @@ buildNumber.properties
 .idea/
 *.iml
 
-!.xml
+# generated 
+.DS_Store
+/build
+/node
+/temp
+/dist
+/node
+ui.apps/node
 
-### Node ###
-./node_modules
+# dependency directories
+node_modules/
+jspm_packages/
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# npm cache directory
+.npm
+
+# jsdoc
+out/
+
+# code coverage
+coverage/
