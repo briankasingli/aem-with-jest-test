@@ -5,7 +5,7 @@ This is an example of how you can setup an automated Javascript Unit Test, Integ
 As JEST standards, '__tests__' folders are created to hold the test Javascript files. '.test.js' string is appended after the Javascript file name for convention.   
 
 #### Project Setup
-- AEM 6.4 Project (https://github.com/Adobe-Marketing-Cloud/aem-project-archetype)
+- AEM 6.4 Project (Maven AEM Archetype 15) (https://github.com/Adobe-Marketing-Cloud/aem-project-archetype)
 - Node Project - https://docs.npmjs.com/cli/init
 
 #### Pre Requirements
