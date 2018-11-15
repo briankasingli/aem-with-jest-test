@@ -1,6 +1,6 @@
-# Running Javascript JEST Test on ClientLibs When Maven Build
+# Maven Build With JEST and AEM
 
-This is an example of how you can setup an automated Javascript Unit Test, Integration Test, or UI Test directly in your AEM component's client library.
+This is an example of how you can setup an automated Javascript Unit Test, Integration Test, or UI Test directly in your AEM component's client library while making a maven build.
 
 As JEST standards, '__tests__' folders are created to hold the test Javascript files. '.test.js' string is appended after the Javascript file name for convention.   
 
