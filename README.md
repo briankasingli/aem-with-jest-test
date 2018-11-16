@@ -21,7 +21,7 @@ As JEST standards, '\___tests___' folders are created to hold the test Javascrip
 #### Important Notes
 This project setup is fairly simple, take a look at the package.json. That is all the dependencies you need to setup automated Javascript testing on Maven build. 
 
-#### Technologies Used
+#### Node Technologies Used
 - Jest - https://jestjs.io/ (for Javascript Testing)
 - Babel - https://babeljs.io/ (for test compilation (ES6))
 
