@@ -1,8 +1,8 @@
 # Maven Build With JEST and AEM 6.4
 
-This is an example of how you can setup an automated Javascript Unit Test, Integration Test, or UI Test directly in your AEM component's client library while making a maven build.
+This is an example of how you can setup an automated Javascript Unit Test, Integration Test, and UI Test directly in your AEM component's client library while making a maven build.
 
-As JEST standards, '__tests__' folders are created to hold the test Javascript files. '.test.js' string is appended after the Javascript file name for convention.   
+As JEST standards, '\__tests__' folders are created to hold the test Javascript files. '.test.js' string is appended after the Javascript file name for convention.   
 
 #### Project Setup
 - AEM 6.4 Project (Maven AEM Archetype 15) (https://github.com/Adobe-Marketing-Cloud/aem-project-archetype)
