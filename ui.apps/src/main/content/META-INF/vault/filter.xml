@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workspaceFilter version="1.0">
-    <filter root="/apps/jest.test"/>
-    <filter root="/apps/sling" />
+    <filter root="/apps/jest.test">
+        <exclude pattern="(.*)/js(.*)tests(.*)" />
+    </filter>
 </workspaceFilter>
