@@ -1,4 +1,4 @@
-# Maven Build With JEST and AEM 6.4
+#  AEM 6.4 : Maven Build With JEST
 
 This is an example of how you can setup an automated Javascript Unit Test, Integration Test, and UI Test directly in your AEM component's client library while making a maven build.
 
